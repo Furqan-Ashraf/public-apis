@@ -1497,6 +1497,7 @@ API | Description | Auth | HTTPS | CORS |
 | [UK Police](https://data.police.uk/docs/) | UK Police data | No | Yes | Unknown |
 | [Virushee](https://api.virushee.com/) | Virushee file/data scanning | No | Yes | Yes |
 | [VulDB](https://vuldb.com/?doc.api) | VulDB API allows to initiate queries for one or more items along with transactional bots | `apiKey` | Yes | Unknown |
+| [WhoisFreaks](https://whoisfreaks.com/products/whois-api) | WHOIS record lookups & domain details | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 <br >
